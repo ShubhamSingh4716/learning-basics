@@ -1,0 +1,17 @@
+* {
+    margin: 10px;
+    padding: 20px;
+    height: auto;
+}
+ul {
+    background-color: rgb(181, 53, 64);
+    color: aquamarine;
+}
+.bg {
+    height: max-content;
+    background-image: url(da4f4rv-3077e8fb-3257-423a-8a3b-520e4db92afc.jpg);
+    background-repeat: repeat-x;
+    background-color: aqua;
+    background-size: auto;
+    background-attachment: fixed;
+}

@@ -1,1 +1,1 @@
-# learning-basics
+# A curated collection of mini projects to learn basics of HTML, CSS, JS.
